@@ -4,7 +4,7 @@
         BAIXE O DBBROWSER FOR SQLITE PARA WINDOWS, EM VERSÃO ZIP (NO INSTALLER)
         https://sqlitebrowser.org/dl/
 
-        https://github.com/fvaladares/ListaDeProdutosSqLiteFASEH/tree/a83940fdda3b5539e87f9c08546c54e8e326e5d2
+        https://github.com/fvaladares/JavaBDGradle
  */
 
 import java.util.List;
